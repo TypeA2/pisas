@@ -6,9 +6,9 @@
 // @grant        GM_setValue
 // @grant        GM_deleteValue
 // @grant        GM_xmlhttpRequest
-// @downloadURL  https://github.com/TypeA2/pisas/raw/master/Pixiv_Image_Searches_and_Stuff.user.js
+// @downloadURL  https://github.com/nottalulah/userscripts/raw/refs/heads/master/Pixiv_Image_Searches_and_Stuff.user.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
-// @version      2024.09.03
+// @version      2026.04.08
 // ==/UserScript==
 
 /* You must be logged into Danbooru (or your preferred site mirror) for all features to work! */
